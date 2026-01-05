@@ -1,27 +1,27 @@
 {
   "courses": [
     {
-      "id": 1,
+      "id": "1",
       "title": "Postman",
       "description": "Full Postman course in Arabic"
     },
     {
-      "id": 2,
+      "id": "2",
       "title": "Selenium",
       "description": "Full Selenium course in Arabic"
     },
     {
-      "id": 3,
+      "id": "3",
       "title": "Cypress",
       "description": "Full Cypress course in Arabic"
     },
     {
-      "id": 4,
+      "id": "4",
       "title": "JavaScript",
       "description": "Full JavaScript course in Arabic"
     },
     {
-      "id": "540f",
+      "id": "5",
       "title": "C++",
       "description": "Full C++ course in Arabic"
     }
@@ -29,12 +29,12 @@
   ],
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Odai",
       "email": "odai@example.com"
     },
     {
-      "id": "f821",
+      "id": "2",
       "name": "Ahmad",
       "email": "ahmad@emample.com"
     }
