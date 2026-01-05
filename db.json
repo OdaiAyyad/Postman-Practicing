@@ -16,15 +16,16 @@
       "description": "Full Cypress course in Arabic"
     },
     {
-      "id": "2410",
-      "title": "Appium",
-      "description": "Full Appium course in Arabic"
+      "id": 4,
+      "title": "JavaScript",
+      "description": "Full JavaScript course in Arabic"
     },
     {
       "id": "540f",
       "title": "C++",
       "description": "Full C++ course in Arabic"
     }
+
   ],
   "users": [
     {
