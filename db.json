@@ -1,0 +1,31 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Postman",
+      "description": "Full Postman course in Arabic"
+    },
+    {
+      "id": 2,
+      "title": "Selenium",
+      "description": "Full Selenium course in Arabic"
+    },
+    {
+      "id": 3,
+      "title": "Cypress",
+      "description": "Full Cypress course in Arabic"
+    },
+    {
+      "id": "2410",
+      "title": "Appium",
+      "description": "Full Appium course in Arabic"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Odai",
+      "email": "odai@example.com"
+    }
+  ]
+}
