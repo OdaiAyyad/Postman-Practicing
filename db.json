@@ -1,11 +1,6 @@
 {
   "courses": [
     {
-      "id": "1",
-      "title": "Postman",
-      "description": "Full Postman course in Arabic"
-    },
-    {
       "id": "2",
       "title": "Selenium",
       "description": "Full Selenium course in Arabic"
