@@ -14,6 +14,11 @@
       "id": "5",
       "title": "C++",
       "description": "Full C++ course in Arabic"
+    },
+    {
+      "id": "1",
+      "title": "Postman",
+      "description": "Full Postman course in Arabic"
     }
   ],
   "users": [
