@@ -19,6 +19,16 @@
       "id": "1",
       "title": "Postman",
       "description": "Full Postman course in Arabic"
+    },
+    {
+      "id": "0dec",
+      "title": "localhost:3000",
+      "description": "Full Postman course in Arabic"
+    },
+    {
+      "id": "b44b",
+      "title": "localhost:3000",
+      "description": "Trying the environment variable"
     }
   ],
   "users": [
