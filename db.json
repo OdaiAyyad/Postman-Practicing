@@ -31,5 +31,16 @@
       "description": "Trying the environment variable"
     }
   ],
-  "users": []
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$6LBgm.UCHlKLqf10JqA.D.DW7Jkn.kSOnbbMaRoR/5MKZXYLjmxgG",
+      "id": 1
+    },
+    {
+      "email": "odai@gmail.com",
+      "password": "$2a$10$iMRY.A4JLQe.D7OLur/lJ.mdxDHL910T7J0o9raJX7KTTHxsoRnXG",
+      "id": 2
+    }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "qacart_postman",
   "version": "1.0.0",
-  "description": "testing api using postman",
+  "description": "testing auth using postman",
   "homepage": "https://github.com/OdaiAyyad/Postman-Practicing#readme",
   "bugs": {
     "url": "https://github.com/OdaiAyyad/Postman-Practicing/issues"
@@ -11,14 +11,15 @@
     "url": "git+https://github.com/OdaiAyyad/Postman-Practicing.git"
   },
   "license": "ISC",
-  "author": "Odai",
+  "author": "",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "json-server": "^1.0.0-beta.3",
+  "dependencies": {
+    "json-server": "^0.17.4",
     "json-server-auth": "^2.1.0"
   }
 }
