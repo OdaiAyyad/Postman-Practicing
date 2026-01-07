@@ -31,16 +31,5 @@
       "description": "Trying the environment variable"
     }
   ],
-  "users": [
-    {
-      "id": "1",
-      "name": "Odai",
-      "email": "odai@example.com"
-    },
-    {
-      "id": "2",
-      "name": "Ahmad",
-      "email": "ahmad@emample.com"
-    }
-  ]
+  "users": []
 }
